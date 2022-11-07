@@ -15,6 +15,5 @@ namespace AddressBook
         public int Zip { get; set; }
         public long PhoneNo { get; set; }
         public string Email { get; set; }
-
     }
 }
